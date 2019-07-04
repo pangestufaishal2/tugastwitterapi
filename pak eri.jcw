@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>pak eri</label>
+		<id>38</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>pak eri.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>tugas\tugas.jcp</path>
+		</project>
+		<project>
+			<path>twitter\twitter.jcp</path>
+		</project>
+	</projects>
+</workspace>
